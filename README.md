@@ -21,7 +21,7 @@ dependencies:
     );
 ```
 
-![](https://i.ibb.co/t2gy889/ezgif-com-video-to-gif.gif)
+![](https://media.giphy.com/media/l0uV5AudZ3o6mnz9dc/giphy.gif)
 
  You can also pass your starting position for the image viewer, so if you pass '1', the slider will start from the second item from your list.
 
@@ -35,7 +35,7 @@ dependencies:
     );
 ```
 
-![](https://i.ibb.co/sQV6cNp/ezgif-com-video-to-gif-1.gif)
+![](https://media.giphy.com/media/ekM4QFeYolP3E1Su64/giphy.gif)
 
 
 ### Platforms
