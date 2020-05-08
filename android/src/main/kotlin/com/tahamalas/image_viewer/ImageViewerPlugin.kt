@@ -55,7 +55,6 @@ public class ImageViewerPlugin : FlutterPlugin, MethodCallHandler, ActivityAware
         ImageViewer.Builder<String>(context, list)
                 .setStartPosition(position)
                 .show()
-
     }
 
     override fun onDetachedFromEngine(@NonNull binding: FlutterPlugin.FlutterPluginBinding) {
