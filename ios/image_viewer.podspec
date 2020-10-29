@@ -15,7 +15,6 @@ A new Flutter plugin.
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
-  s.dependency 'Lightbox'
   s.platform = :ios, '8.0'
 
 

@@ -1,6 +1,5 @@
 import Flutter
 import UIKit
-import Lightbox
 
 public class SwiftImageViewerPlugin: NSObject, FlutterPlugin {
   public static func register(with registrar: FlutterPluginRegistrar) {
