@@ -1,3 +1,7 @@
+## 0.5.3
+
+* iOS integration
+
 ## 0.5.2
 
 * Minor bug fixes

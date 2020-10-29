@@ -40,10 +40,13 @@ dependencies:
 
 ### Platforms
 
-This packages only supports Android for now, very soon will be implemented for iOS devices.
+This pacakges is stable on Android, and still under testing on iOS platform.
 
 
-### Shoutout
+### Dependencies
 
-Shoutout to [FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)
+For Android: [FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)
+For iOS: [Lightbox](https://github.com/hyperoslo/Lightbox)
+
+
 
