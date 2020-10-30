@@ -181,6 +181,7 @@ open class LightboxController: UIViewController {
 
     configurePages(initialImages)
     currentPage = initialPage
+//    self.transitioningDelegate = nil
 
     goTo(currentPage, animated: false)
   }
@@ -405,8 +406,8 @@ extension LightboxController: HeaderViewDelegate {
   func headerView(_ headerView: HeaderView, didPressCloseButton closeButton: UIButton) {
     closeButton.isEnabled = false
     presented = false
-    dismissalDelegate?.lightboxControllerWillDismiss(self)
     dismiss(animated: true, completion: nil)
+    dismissalDelegate?.lightboxControllerWillDismiss(self)
   }
 }
 

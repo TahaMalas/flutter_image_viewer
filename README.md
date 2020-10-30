@@ -8,7 +8,7 @@ Flutter image viewer library gives you the opportunity to easly integrate full s
 
 ```yaml
 dependencies:
-  image_viewer: ^0.5.3+1
+  image_viewer: ^1.0.0
 ```
 
 ### Example
@@ -38,9 +38,12 @@ dependencies:
 ![](https://media.giphy.com/media/ekM4QFeYolP3E1Su64/giphy.gif)
 
 
+![](https://media.giphy.com/media/fY5XOEdmnQ7EtQCemV/giphy.gif)
+
+
 ### Platforms
 
-This pacakges is stable on Android, and still under testing on iOS platform.
+This pacakges is a stable version for both Android and iOS
 
 
 ### Dependencies

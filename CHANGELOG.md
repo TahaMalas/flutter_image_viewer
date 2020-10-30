@@ -1,3 +1,7 @@
+## 1.0.0
+
+* Bugs fixes (First stable version)
+
 ## 0.5.3+1
 
 * Fix bugs

@@ -24,6 +24,7 @@ public class SwiftImageViewerPlugin: NSObject, FlutterPlugin {
         let controller = LightboxController(images: images, startIndex: initialIndex)
         
         
+        controller.modalPresentationStyle = .fullScreen
         UIApplication.shared.delegate?.window??.rootViewController?.present(controller, animated: true, completion: nil)
 
     }
