@@ -8,7 +8,7 @@ Flutter image viewer library gives you the opportunity to easly integrate full s
 
 ```yaml
 dependencies:
-  image_viewer: ^1.0.0
+  image_viewer: ^1.5.0
 ```
 
 ### Example

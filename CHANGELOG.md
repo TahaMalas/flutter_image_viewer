@@ -1,3 +1,7 @@
+## 1.5.0
+
+* Migrate to Flutter 2 and Null-safety
+
 ## 1.0.0
 
 * Bugs fixes (First stable version)

@@ -7,11 +7,11 @@ class ImageViewer {
   static const MethodChannel _channel = const MethodChannel('image_viewer');
 
   static Future<void> showImageSlider({
-    @required List<String> images,
+    required List<String> images,
     int startingPosition = 0,
   }) async {
     try {
-      List<String> imagesList = List();
+      List<String> imagesList = [];
       images.forEach((image) => imagesList.add(image));
       await _channel.invokeMethod(
         'showImageViewer',
